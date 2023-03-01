@@ -1,0 +1,4 @@
+net\neyrowz\orm\mysql\Credentials.class
+net\neyrowz\orm\mysql\Mysql.class
+net\neyrowz\orm\mysql\MysqlStatement.class
+net\neyrowz\orm\DataManager.class
